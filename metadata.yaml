@@ -1,0 +1,50 @@
+_repo: Ludwig-Richter_68401
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mohn, V. Paul (Viktor Paul)
+    aliases:
+    - Mohn, Paul
+    - Mohn, Victor Paul
+    - Mohn, V. P. (Viktor Paul)
+    - Mohn, Viktor Paul
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '54755'
+    url: http://www.gutenberg.org/2009/agents/54755
+    wikipedia: https://de.wikipedia.org/wiki/Viktor_Paul_Mohn
+  editor:
+    agent_name: Knackfuss, H. (Hermann)
+    aliases:
+    - Knackfuß, Hermann
+    - Knackfuss, Hermann
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '37412'
+    url: http://www.gutenberg.org/2009/agents/37412
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hermann_Knackfuss
+    - https://de.wikipedia.org/wiki/Hermann_Knackfu%C3%9F
+description: ''
+gutenberg_issued: '2022-06-25'
+identifiers:
+  gutenberg: '68401'
+language: de
+pgterms:marc904: https://archive.org/details/ludwigrichterlie00mohn
+pgterms:marc905: 20210110100742mohn
+pgterms:marc906: '1906'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Germany :Velhagen und Klasing,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Künstler-Monographien: XIV'
+subjects:
+- !lcc 'NC'
+- !lcsh 'Richter, Ludwig, 1803-1884'
+- GITenberg
+title: Ludwig Richter
+url: http://www.gutenberg.org/ebooks/68401
